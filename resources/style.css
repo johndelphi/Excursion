@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.heading1 {
+    font-family: Verdana;
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+    align-content: center;
+}
+
+#link1 {
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+}
+
+#travel h5,
+#info {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42PX;
+    color: white;
+}
+
+p {
+    color: gray;
+    font-family: verdana;
+}
+
+#footer {
+    color: gray;
+    text-align-last: right;
+}
